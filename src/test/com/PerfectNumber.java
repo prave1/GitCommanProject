@@ -1,6 +1,5 @@
 package test.com;
 
-
 import java.util.*;
 class PerfectNumber
 {
